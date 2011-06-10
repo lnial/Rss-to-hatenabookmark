@@ -1,0 +1,9 @@
+Google reader star to hatenabookmark post
+
+1.Open google reader star feed
+2.Get its feed
+3.You write 'hatena userID password , feed '
+4.Option hatena coment & Tag
+5.Run program using cron
+
+Good Luck!!
